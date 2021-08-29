@@ -1,0 +1,5 @@
+---
+target: my_nand
+reference: my_nand_reference.cir
+netlist: "/import/home/miyo/work/my_nand/my_nand/my_nand.cir"
+schematic: "/import/home/miyo/work/my_nand/my_nand/my_nand.cir"

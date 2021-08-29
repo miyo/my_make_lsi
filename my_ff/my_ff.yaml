@@ -1,0 +1,5 @@
+---
+target: my_ff
+reference: my_ff_reference.cir
+netlist: "/import/home/miyo/work/my_ff/my_ff/my_ff.cir"
+schematic: "/import/home/miyo/work/my_ff/my_ff/my_ff.cir"
