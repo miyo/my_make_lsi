@@ -1,6 +1,11 @@
 - my_ff.gds - KLayout data
 - kicad - KiCAD projects
 
+## Environment
+
+- KiCad - 5.1.10
+- Klayout - 0.27.3
+
 ## Requirements
 
 - Download https://github.com/MakeLSI/OpenRule1um/blob/master/KiCad/OR1Symbols.lib
