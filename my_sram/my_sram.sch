@@ -98,8 +98,6 @@ Connection ~ 5250 4750
 Wire Wire Line
 	5750 4750 5250 4750
 Wire Wire Line
-	6050 4900 6000 4900
-Wire Wire Line
 	4450 3900 6200 3900
 Wire Wire Line
 	6200 3900 6200 4700
@@ -116,8 +114,6 @@ Wire Wire Line
 Connection ~ 4450 3900
 Wire Wire Line
 	4600 4750 5250 4750
-Wire Wire Line
-	4300 4750 4300 4850
 Wire Wire Line
 	6350 4900 6350 5600
 $Comp
@@ -207,19 +203,17 @@ F 6 "Y" H 4800 4450 50  0001 L CNN "Spice_Netlist_Enabled"
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	4450 4750 4450 4850
+	6050 4900 5400 4900
 Wire Wire Line
-	4450 4850 4300 4850
-Connection ~ 4300 4850
+	4300 4750 4300 5650
+Connection ~ 5850 5500
 Wire Wire Line
-	4300 4850 4300 5650
+	6200 5500 5850 5500
 Wire Wire Line
-	6200 4900 6200 5000
+	6200 4900 6200 5500
 Wire Wire Line
-	6200 5000 6000 5000
+	4450 4750 4450 5500
+Connection ~ 4800 5500
 Wire Wire Line
-	6000 5000 6000 4900
-Connection ~ 6000 4900
-Wire Wire Line
-	6000 4900 5400 4900
+	4450 5500 4800 5500
 $EndSCHEMATC
