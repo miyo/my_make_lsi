@@ -1,3 +1,6 @@
 OR1Symbols.lib
 *.cir
 16PTS
+*~
+*.jou
+*.log
